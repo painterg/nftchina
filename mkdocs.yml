@@ -1,1 +1,3 @@
 site_name: NFT 中国
+theme:
+  name: material
