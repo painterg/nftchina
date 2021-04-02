@@ -12,4 +12,4 @@ NFT到底是什么呢？以下解释来自《邵恒头条》：
 
 A non-fungible token (NFT) is a unit of data on a digital ledger called a blockchain, where each NFT can represent a unique digital item, and thus they are not interchangeable.[1] NFTs can represent digital files such as art, audio, videos, items in video games and other forms of creative work. The NFTs can be bought on an NFT market. Access to any copy of the original file, however, is not restricted to the owner of the token. While the digital files themselves are infinitely reproducible, the NFTs representing them are tracked on their underlying blockchains and provide buyers with proof of ownership of the NFTs.
 
-感兴趣 NFT 的人，在 NFT China 这里可以一起分享、交流和学习。
+感兴趣 NFT 的人，在 NFT China 这里可以一起分享、交流和学习。共同努力
